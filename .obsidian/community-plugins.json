@@ -1,4 +1,7 @@
 [
   "obsidian-latex-suite",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "dataview",
+  "obsidian-zotero-desktop-connector",
+  "obsidian-pandoc-reference-list"
 ]

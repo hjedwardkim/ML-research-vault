@@ -1,21 +1,17 @@
 ---
-title: {{concept}}
+title: 
+created: 
 type: concept
-tags: [concept]
+tags: 
+  - 
 ---
-# {{concept}}
 
 ## Definition
-
-
+A clear, concise explanation of what this concept is.
 ## Key Papers
-- 
 
 ## Related Concepts
-- 
 
 ## Applications
-- 
 
 ## Open Questions
--
