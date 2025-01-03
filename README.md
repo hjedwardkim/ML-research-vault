@@ -1,7 +1,7 @@
 ## Introduction
 This Obsidian vault repository serves as my second brain for machine learning literature reviews. The vault contains paper notes and concept notes hyperlinked to the papers to emulate a Wiki-style graph. Over time, the vault will grow and the graph will become richer and fuller to provide a more meaningful reference experience.
 
-I make this vault public for anyone to use if they so wish to use it as a starting point for their own, or for their own reference (if/when the vault gets big enough to be useful).
+I make this vault public for anyone to use if they so wish to use it as a starting point for their own, or for their own reference (if/when the vault gets big enough to be useful). This project began on 2025-01-03.
 
 ## Author
 - **Name**: Hyeong-Jin Edward Kim

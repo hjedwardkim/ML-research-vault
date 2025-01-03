@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Paper Template.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Paper Template"
+              "title": "README"
             }
           }
         ]
@@ -174,12 +174,12 @@
   },
   "active": "3c47cae8e33d9702",
   "lastOpenFiles": [
+    "Templates/Paper Template.md",
     "Papers/vaswaniAttentionAllYou2023.md",
     "{{annotation.imageRelativePath}}.md",
     "Concepts/Attention Mechanism.md",
     "@vaswaniAttentionAllYou2023.md",
     "Templates/Concept Template.md",
-    "Templates/Paper Template.md",
     "Templates/zx Template.md",
     "Untitled.md",
     "Templates/Test Template.md",
